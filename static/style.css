@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+    margin: 0 auto;
+    background-color: #0B0C10;
+    font-family: 'Asap', sans-serif;
+    color: white;
+}
+
+body {
+    background-color: #0B0C10;
+    color: #C5C6C7;
+}
+
+/* Header */
+.header {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.header h1 {
+    font-family: 'Press Start 2P', cursive;
+    color: #45A29E;
+    background-color: #0B0C10;
+    padding: 20px;
+    border: 2px solid #45A29E;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(69, 162, 158, 0.5);
+}
+
+/* Scoreboard */
+.score-board {
+    text-align: center;
+    border: 4px solid #66FCF1;
+    background-color: #1F2833;
+    width: 220px;
+    margin: 50px auto;
+    font-size: 40px;
+    position: relative;
+    padding: 30px;
+    box-shadow: 0 0 20px rgba(102, 252, 241, 0.5);
+    border-radius: 10px;
+}
+
+.score {
+    background-color: #45A29E;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.scores{
+    background-color: #1F2833;
+}
+#user, #comp {
+    position: absolute;
+    top: 20px;
+    font-size: 16px;
+    color: #66FCF1;
+}
+
+#user {
+    left: -30px;
+}
+
+#comp {
+    right: -30px;
+}
+
+/* Result */
+.result {
+    text-align: center;
+    font-size: 28px;
+    color: #66FCF1;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+/* Choices */
+.choices {
+    text-align: center;
+    margin: 40px auto;
+    
+}
+
+.choice {
+    display: inline-block;
+    margin: 0 40px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    /* display: none; */
+}
+
+.choice img {
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+    border-radius: 50%;
+    border: 4px solid #66FCF1;
+    background-color: #0B0C10;
+    box-shadow: 0 0 20px rgba(69, 162, 158, 0.5);
+}
+
+.choice:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+    box-shadow: 0 0 30px rgba(69, 162, 158, 0.8);
+}
+
+/* Action Message */
+.action-message {
+    text-align: center;
+    font-size: 24px;
+    color: #C5C6C7;
+    margin-top: 30px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+/* Element Selected */
+.element-selected-board {
+    text-align: center;
+    margin: 40px auto;
+    display: flex;
+    align-items: center;
+    width: 500px;
+}
+
+.element-selected-board h1{
+    /* display: inline-block; */
+}
+.element-selected {
+    /* display: inline-block; */
+    margin: 0 30px;
+    border: 4px solid #66FCF1;
+    width: 120px;
+    height: 100px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(102, 252, 241, 0.5);
+}
+ 
+.element-selected img {
+    width: 90px;
+}
+
+/* Quiz Board */
+.quiz-board {
+    text-align: center;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1F2833;
+    border: 4px solid #66FCF1;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(102, 252, 241, 0.5);
+    display: none;
+}
+
+.quiz-board-title{
+    padding: 15px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 35px;
+    color: #45A29E;
+}
+.question {
+    /* font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    color: #45A29E; */
+   margin-top: 20px;
+   padding-top: 20px;
+}
+
+.quiz-board-choices {
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 20px; */
+    /* padding: 10px; */
+    padding-bottom: 30px;
+}
+
+.quiz-board-choices button {
+    background-color: #45A29E;
+    color: #0B0C10;
+    border: none;
+    padding: 10px 20px;
+    font-family: 'Asap', sans-serif;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.quiz-board-choices button:hover {
+    background-color: #66FCF1;
+    transform: scale(1.1);
+}
+
+/* Button */
+.button-29 {
+  align-items: center;
+  background-color: #45A29E;
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(102, 252, 241, 0.5);
+  color: #1F2833;
+  cursor: pointer;
+  font-family: 'Press Start 2P', cursive;
+  height: 50px;
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 30px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.button-29:hover {
+  box-shadow: 0 0 20px rgba(102, 252, 241, 0.8);
+  transform: translateY(-5px);
+}
+
+.button-29:active {
+  box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.2);
+  transform: translateY(2px);
+}

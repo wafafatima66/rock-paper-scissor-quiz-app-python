@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Rock Paper Scissors</title>
+</head>
+<body>
+    <div class="header">
+        <h1>Rock Paper Scissors</h1>
+    </div>
+
+    <div class="score-board">
+        <div class="score" id="user">user</div>
+        <div class="score" id="comp">comp</div>
+        <span class="scores" id="user-scores">0</span>:<span class="scores" id="computer-scores">0</span>
+    </div>
+
+    <div class="element-selected-board">
+            <div class="element-selected" id="element-selected-user"></div>
+            <h1>V/S</h1>
+            <div class="element-selected" id="element-selected-comp"></div>
+    </div>
+
+    <div class="result">
+        <h1 id="result">Make Your Move</h1>
+    </div>
+
+    <div class="choices">
+        <div class="choice" id="p"><img src="{{ url_for('static', filename='paper.png') }}" alt="Paper"><p>Paper</p></div>
+        <div class="choice" id="r"><img src="{{ url_for('static', filename='rock.png') }}" alt="Rock"><p>Rock</p></div>
+        <div class="choice" id="s"><img src="{{ url_for('static', filename='scissor.png') }}" alt="Scissors"><p>Scissor</p></div>
+    </div>
+
+    <!-- <p class="action-message">Make Your Move.</p> -->
+
+    <div class="quiz-board">
+        <h1 class="quiz-board-title">Quiz Time</h1>
+
+        <h2 class="question" id="question_id">How are you ? </h2>
+        <div class="quiz-board-choices">
+            <button class="button-29" role="button" id="choice1_id" >Option 1</button>
+            <button class="button-29" role="button" id="choice2_id" >Option 2 </button>       
+        </div>
+
+        <h1 class="quiz-board-title" id="quiz-result"></h1>
+
+    </div>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

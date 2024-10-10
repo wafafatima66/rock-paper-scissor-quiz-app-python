@@ -1,0 +1,526 @@
+{
+    "questions": [
+      {
+        "question": "She ___ a beautiful painting yesterday.",
+        "choices": ["painted", "paints"],
+        "answer": "painted"
+      },
+      {
+        "question": "The children ___ in the park every afternoon.",
+        "choices": ["play", "played"],
+        "answer": "play"
+      },
+      {
+        "question": "He usually ___ to school by bus.",
+        "choices": ["goes", "went"],
+        "answer": "goes"
+      },
+      {
+        "question": "They ___ dinner when the phone rang.",
+        "choices": ["were eating", "eat"],
+        "answer": "were eating"
+      },
+      {
+        "question": "We ___ our homework before going outside.",
+        "choices": ["finished", "finish"],
+        "answer": "finished"
+      },
+      {
+        "question": "I ___ my keys, but now I can't find them.",
+        "choices": ["had", "have had"],
+        "answer": "had"
+      },
+      {
+        "question": "She ___ the book by the time you called.",
+        "choices": ["had finished", "finishes"],
+        "answer": "had finished"
+      },
+      {
+        "question": "We ___ to the beach if it doesn't rain.",
+        "choices": ["will go", "went"],
+        "answer": "will go"
+      },
+      {
+        "question": "They ___ to the store before it closed.",
+        "choices": ["had gone", "go"],
+        "answer": "had gone"
+      },
+      {
+        "question": "The cat ___ quietly in the corner while we were talking.",
+        "choices": ["sat", "sits"],
+        "answer": "sat"
+      },
+      {
+        "question": "He ___ many stories since the start of the year.",
+        "choices": ["has written", "wrote"],
+        "answer": "has written"
+      },
+      {
+        "question": "If I ___ more time, I would have helped you.",
+        "choices": ["had", "have"],
+        "answer": "had"
+      },
+      {
+        "question": "She ___ the dishes when I arrived.",
+        "choices": ["was washing", "washes"],
+        "answer": "was washing"
+      },
+      {
+        "question": "He ___ his room by the time his mom came home.",
+        "choices": ["had cleaned", "cleans"],
+        "answer": "had cleaned"
+      },
+      {
+        "question": "I ___ my breakfast when the alarm went off.",
+        "choices": ["was eating", "ate"],
+        "answer": "was eating"
+      },
+      {
+        "question": "By the end of the week, they ___ their project.",
+        "choices": ["will have completed", "complete"],
+        "answer": "will have completed"
+      },
+      {
+        "question": "The dog ___ excited when it saw the leash.",
+        "choices": ["gets", "got"],
+        "answer": "got"
+      },
+      {
+        "question": "I ___ him before, but I can't remember where.",
+        "choices": ["have met", "met"],
+        "answer": "have met"
+      },
+      {
+        "question": "They ___ the car before the rain started.",
+        "choices": ["had washed", "wash"],
+        "answer": "had washed"
+      },
+      {
+        "question": "She ___ to the party if she had been invited.",
+        "choices": ["would have gone", "goes"],
+        "answer": "would have gone"
+      },
+      {
+        "question": "The ___ of the students are playing outside.",
+        "choices": ["majority", "group"],
+        "answer": "majority"
+      },
+      {
+        "question": "She gave the book to ___.",
+        "choices": ["me", "I"],
+        "answer": "me"
+      },
+      {
+        "question": "He borrowed ___ bicycle without asking.",
+        "choices": ["her", "hers"],
+        "answer": "her"
+      },
+      {
+        "question": "The ___ is grazing in the field.",
+        "choices": ["cattle", "herd"],
+        "answer": "cattle"
+      },
+      {
+        "question": "The ___ of birds flew across the sky.",
+        "choices": ["flock", "group"],
+        "answer": "flock"
+      },
+      {
+        "question": "The boy asked for ___ help with his homework.",
+        "choices": ["my", "mine"],
+        "answer": "my"
+      },
+      {
+        "question": "The teacher told ___ to study for the test.",
+        "choices": ["us", "we"],
+        "answer": "us"
+      },
+      {
+        "question": "The ___ of the museum was very interesting.",
+        "choices": ["collection", "groups"],
+        "answer": "collection"
+      },
+      {
+        "question": "She is going to visit ___ grandmother next week.",
+        "choices": ["her", "hers"],
+        "answer": "her"
+      },
+      {
+        "question": "They completed ___ project ahead of schedule.",
+        "choices": ["their", "theirs"],
+        "answer": "their"
+      },
+      {
+        "question": "A ___ of fish swam by the coral reef.",
+        "choices": ["school", "group"],
+        "answer": "school"
+      },
+      {
+        "question": "The police asked for ___ cooperation in solving the case.",
+        "choices": ["their", "theirs"],
+        "answer": "their"
+      },
+      {
+        "question": "The team presented ___ findings at the conference.",
+        "choices": ["its", "it's"],
+        "answer": "its"
+      },
+      {
+        "question": "The principal thanked ___ for our contributions.",
+        "choices": ["us", "we"],
+        "answer": "us"
+      },
+      {
+        "question": "The ___ of puppies is adorable.",
+        "choices": ["litter", "group"],
+        "answer": "litter"
+      },
+      {
+        "question": "The house is ___, not ours.",
+        "choices": ["theirs", "their"],
+        "answer": "theirs"
+      },
+      {
+        "question": "Can you tell ___ about your day?",
+        "choices": ["me", "I"],
+        "answer": "me"
+      },
+      {
+        "question": "The jury gave ___ verdict after two hours of deliberation.",
+        "choices": ["its", "their"],
+        "answer": "its"
+      },
+      {
+        "question": "I found a ___ of coins in the drawer.",
+        "choices": ["collection", "groups"],
+        "answer": "collection"
+      },
+      {
+        "question": "She gave the money to ___.",
+        "choices": ["me", "I"],
+        "answer": "me"
+      },
+      {
+        "question": "This book is ___ than the other one.",
+        "choices": ["better", "good"],
+        "answer": "better"
+      },
+      {
+        "question": "The mountain is ___ than the hill.",
+        "choices": ["taller", "tall"],
+        "answer": "taller"
+      },
+      {
+        "question": "She is the ___ student in the class.",
+        "choices": ["most intelligent", "more intelligent"],
+        "answer": "most intelligent"
+      },
+      {
+        "question": "The weather today is ___ than yesterday.",
+        "choices": ["colder", "coldest"],
+        "answer": "colder"
+      },
+      {
+        "question": "This puzzle is ___ than the last one.",
+        "choices": ["harder", "hardest"],
+        "answer": "harder"
+      },
+      {
+        "question": "The dog is ___ than the cat.",
+        "choices": ["bigger", "big"],
+        "answer": "bigger"
+      },
+      {
+        "question": "He is the ___ runner in the race.",
+        "choices": ["fastest", "fast"],
+        "answer": "fastest"
+      },
+      {
+        "question": "This movie is ___ than the book.",
+        "choices": ["more interesting", "interesting"],
+        "answer": "more interesting"
+      },
+      {
+        "question": "The ___ building in town is the skyscraper.",
+        "choices": ["tallest", "tall"],
+        "answer": "tallest"
+      },
+      {
+        "question": "Her shoes are ___ than mine.",
+        "choices": ["newer", "new"],
+        "answer": "newer"
+      },
+      {
+        "question": "This problem is ___ to solve than the previous one.",
+        "choices": ["easier", "easy"],
+        "answer": "easier"
+      },
+      {
+        "question": "My house is ___ from the school than yours.",
+        "choices": ["farther", "far"],
+        "answer": "farther"
+      },
+      {
+        "question": "The cake is ___ than the cookies.",
+        "choices": ["sweeter", "sweet"],
+        "answer": "sweeter"
+      },
+      {
+        "question": "She is ___ than her sister.",
+        "choices": ["friendlier", "friendly"],
+        "answer": "friendlier"
+      },
+      {
+        "question": "This is the ___ story I've ever heard.",
+        "choices": ["funniest", "funnier"],
+        "answer": "funniest"
+      },
+      {
+        "question": "He is ___ at math than I am.",
+        "choices": ["better", "best"],
+        "answer": "better"
+      },
+      {
+        "question": "That was the ___ day of my life.",
+        "choices": ["happiest", "happy"],
+        "answer": "happiest"
+      },
+      {
+        "question": "Her dress is ___ than mine.",
+        "choices": ["more colorful", "colorful"],
+        "answer": "more colorful"
+      },
+      {
+        "question": "This problem is ___ to solve than the last one.",
+        "choices": ["harder", "hardest"],
+        "answer": "harder"
+      },
+      {
+        "question": "She is ___ than most of her classmates.",
+        "choices": ["more creative", "most creative"],
+        "answer": "more creative"
+      },
+      {
+        "question": "The book is ___ the table.",
+        "choices": ["on", "beside"],
+        "answer": "on"
+      },
+      {
+        "question": "The plane flew ___ the clouds.",
+        "choices": ["through", "on"],
+        "answer": "through"
+      },
+      {
+        "question": "She is standing ___ the door.",
+        "choices": ["in front of", "behind"],
+        "answer": "in front of"
+      },
+      {
+        "question": "We walked ___ the riverbank.",
+        "choices": ["along", "into"],
+        "answer": "along"
+      },
+      {
+        "question": "The cat jumped ___ the fence.",
+        "choices": ["over", "beside"],
+        "answer": "over"
+      },
+      {
+        "question": "He parked the car ___ the garage.",
+        "choices": ["inside", "under"],
+        "answer": "inside"
+      },
+      {
+        "question": "The ball rolled ___ the bed.",
+        "choices": ["under", "above"],
+        "answer": "under"
+      },
+      {
+        "question": "The birds flew ___ the trees.",
+        "choices": ["over", "on"],
+        "answer": "over"
+      },
+      {
+        "question": "She sat ___ me during lunch.",
+        "choices": ["beside", "behind"],
+        "answer": "beside"
+      },
+      {
+        "question": "They walked ___ the bridge.",
+        "choices": ["across", "beside"],
+        "answer": "across"
+      },
+      {
+        "question": "The dog ran ___ the house.",
+        "choices": ["around", "inside"],
+        "answer": "around"
+      },
+      {
+        "question": "The keys are ___ the drawer.",
+        "choices": ["in", "on"],
+        "answer": "in"
+      },
+      {
+        "question": "She looked ___ the window to see the view.",
+        "choices": ["through", "on"],
+        "answer": "through"
+      },
+      {
+        "question": "He stood ___ the door waiting for her.",
+        "choices": ["at", "on"],
+        "answer": "at"
+      },
+      {
+        "question": "The ball is ___ the car and the wall.",
+        "choices": ["between", "over"],
+        "answer": "between"
+      },
+      {
+        "question": "They walked ___ the room silently.",
+        "choices": ["into", "over"],
+        "answer": "into"
+      },
+      {
+        "question": "The book fell ___ the table.",
+        "choices": ["off", "beside"],
+        "answer": "off"
+      },
+      {
+        "question": "We sat ___ the table for dinner.",
+        "choices": ["at", "on"],
+        "answer": "at"
+      },
+      {
+        "question": "He climbed ___ the roof to fix the leak.",
+        "choices": ["onto", "into"],
+        "answer": "onto"
+      },
+      {
+        "question": "The picture is hanging ___ the wall.",
+        "choices": ["on", "in"],
+        "answer": "on"
+      },
+      {
+        "question": "I want to play outside ___ it’s raining.",
+        "choices": ["but", "and"],
+        "answer": "but"
+      },
+      {
+        "question": "We can go to the zoo ___ the park.",
+        "choices": ["or", "but"],
+        "answer": "or"
+      },
+      {
+        "question": "She was tired ___ she kept working.",
+        "choices": ["but", "so"],
+        "answer": "but"
+      },
+      {
+        "question": "I will call you ___ I get home.",
+        "choices": ["when", "but"],
+        "answer": "when"
+      },
+      {
+        "question": "He finished his homework ___ he went outside to play.",
+        "choices": ["before", "and"],
+        "answer": "before"
+      },
+      {
+        "question": "She was hungry ___ she didn’t eat.",
+        "choices": ["but", "or"],
+        "answer": "but"
+      },
+      {
+        "question": "I studied hard, ___ I passed the test.",
+        "choices": ["so", "but"],
+        "answer": "so"
+      },
+      {
+        "question": "You can have ___ an apple ___ an orange.",
+        "choices": ["either, or", "neither, nor"],
+        "answer": "either, or"
+      },
+      {
+        "question": "He can ___ sing ___ dance.",
+        "choices": ["both, and", "either, nor"],
+        "answer": "both, and"
+      },
+      {
+        "question": "I will stay home ___ it is raining.",
+        "choices": ["because", "but"],
+        "answer": "because"
+      },
+      {
+        "question": "___ of the boys won the race.",
+        "choices": ["One", "A"],
+        "answer": "One"
+      },
+      {
+        "question": "She wants to be ___ astronaut when she grows up.",
+        "choices": ["an", "a"],
+        "answer": "an"
+      },
+      {
+        "question": "We saw ___ elephant at the zoo.",
+        "choices": ["an", "a"],
+        "answer": "an"
+      },
+      {
+        "question": "He is ___ best player on the team.",
+        "choices": ["the", "a"],
+        "answer": "the"
+      },
+      {
+        "question": "I need ___ book to read.",
+        "choices": ["a", "an"],
+        "answer": "a"
+      },
+      {
+        "question": "They bought ___ new house.",
+        "choices": ["a", "an"],
+        "answer": "a"
+      },
+      {
+        "question": "She found ___ old coin.",
+        "choices": ["an", "a"],
+        "answer": "an"
+      },
+      {
+        "question": "They have ___ blue car.",
+        "choices": ["a", "an"],
+        "answer": "a"
+      },
+      {
+        "question": "I saw ___ owl in the tree.",
+        "choices": ["an", "a"],
+        "answer": "an"
+      },
+      {
+        "question": "He is ___ engineer.",
+        "choices": ["an", "a"],
+        "answer": "an"
+      },
+      {
+        "question": "They are eating ___ sandwich.",
+        "choices": ["a", "an"],
+        "answer": "a"
+      },
+      {
+        "question": "I found ___ egg in the basket.",
+        "choices": ["an", "a"],
+        "answer": "an"
+      },
+      {
+        "question": "We saw ___ elephant at the zoo.",
+        "choices": ["an", "a"],
+        "answer": "an"
+      },
+      {
+        "question": "He needs ___ umbrella for the rain.",
+        "choices": ["an", "a"],
+        "answer": "an"
+      }
+
+    ]
+  }
+  
