@@ -25,12 +25,12 @@ This is a web-based game built with Flask that combines two classic mini-games:
 rock-quiz-game/
 ├── app.py
 ├── static/
-│ └── app.js
-│ ├── style.css
-│   ├── data/
-│      └── quizQuestions.json
+  └── app.js
+  ├── style.css
+    ├── data/
+       └── quizQuestions.json
 ├── templates/
-│ └── index.html
+ └── index.html
 ├── requirements.txt
 └── README.md
 
